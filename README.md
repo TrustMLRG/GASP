@@ -22,7 +22,7 @@ cd gasp
 pip install -r requirements.txt
 ```
 
-- To use a Docker image with all dependencies pre-installed, you can pull it directly from Docker Hub: `anonrsch001/gasp:latest`. This setup is recommended when working with schedulers like SLURM.
+- To use a Docker image with all dependencies pre-installed, you can pull it directly from Docker Hub: `floofcat/gasp:latest`. This setup is recommended when working with schedulers like SLURM.
 
 ### 1.1 Configuration Setup
 Refer to the [config documentation](./config/README.md) for details on key configurations that can be modified when running GASP. The `./config/` folder contains four main configuration files. We also suggest [downloading](https://huggingface.co/docs/hub/en/models-downloading) the necessary LLMs from HuggingFace (for SuffixLLM, at least). You may reference these downloaded models in the configuration files.
