@@ -4,6 +4,7 @@
 
 This repo is an official implementation of GASP for the paper *GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs*. 
 
+✨ Accepted to NeurIPS 2025!
 ✨ Accepted as a Oral Presentation (& Poster) to ICLR 2025 - BuildingTrust Workshop 
 
 Large Language Models (LLMs) have shown impressive proficiency across a range of natural language processing tasks yet remain vulnerable to adversarial prompts, known as jailbreak attacks, carefully designed to elicit harmful responses from LLMs. 
